@@ -1,0 +1,53 @@
+.header-cabecalho {
+    background-color: #ff2b73;
+    padding: 100px;
+}
+
+.secao1 {
+    background-color: #524e4e;
+    padding: 100px;
+}
+
+.header-cabecalho {
+    text-align: center;
+}
+
+.secao2 {
+    background-color: #ffcd37;
+    padding: 100px;
+}
+
+.div1 {
+    width: 200px;
+    height: 200px;
+    background-color: #ff2b73;
+}
+
+.div2 {
+    width: 200px;
+    height: 200px;
+    background-color: #ffcd37;
+}
+
+.div3 {
+    width: 200px;
+    height: 200px;
+    background-color: #524e4e;
+}
+
+.divfather1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0px;
+}
+
+.divfather2 {
+   display: flex;
+   justify-content: space-between;
+   margin: 10px 0px;
+}
+
+.rodape {
+    background-color: aqua;
+    padding: 100px;
+}
