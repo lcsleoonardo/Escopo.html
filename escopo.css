@@ -1,10 +1,11 @@
 .header-cabecalho {
-    background-color: #ff2b73;
+    background-color: red;
     padding: 100px;
 }
 
 .secao1 {
-    background-color: #524e4e;
+    background-color: white;
+    background-repeat: no-repeat;
     padding: 100px;
 }
 
@@ -13,32 +14,54 @@
 }
 
 .secao2 {
-    background-color: #ffcd37;
+    background-color: black;
     padding: 100px;
 }
 
 .div1 {
     width: 200px;
     height: 200px;
-    background-color: #ff2b73;
+    background-color: red;
 }
 
 .div2 {
     width: 200px;
     height: 200px;
-    background-color: #ffcd37;
+    background-color: white;
+    box-shadow: 5px 10px 10px;
 }
 
 .div3 {
     width: 200px;
     height: 200px;
-    background-color: #524e4e;
+    background-color: black;
+}
+
+.div4 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.div5 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    box-shadow: 5px 10px 10px;
+}
+
+.div6 {
+    width: 200px;
+    height: 200px;
+    background-color: black;
 }
 
 .divfather1 {
+    background-image: url(https://down-br.img.susercontent.com/file/8768e62b8cfb8f76046bbe980c19ef53);
     display: flex;
     justify-content: space-between;
     margin: 10px 0px;
+    height: 600px;
 }
 
 .divfather2 {
@@ -48,6 +71,7 @@
 }
 
 .rodape {
-    background-color: aqua;
+    background-color: rgb(230, 19, 19);
     padding: 100px;
+    box-shadow: 5px 10px 10px;
 }
